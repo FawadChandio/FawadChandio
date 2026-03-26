@@ -1,53 +1,110 @@
-# Hi, I'm Fawad 👋
-Computer Professional | Junior Software Engineer | Web Developer
+# Hi, I'm Fawad Usman 👋
 
-- 💻 I’m currently working on **PHP Laravel** and **Node.js**-based applications, including ERP, E-commerce, and AI-powered systems.
-- 🌱 I’m learning **advanced API integration** and exploring **AI + MATLAB** for automation projects.
-- 🛠️ I can build, fix, and deploy web apps, set up databases, and manage hosting environments (cPanel, Hostinger VPS).
-- 👨‍💻 Check out my recent work below:
+🚀 **MATLAB & Simulink Specialist | AI/ML Engineer | Web Developer**
+
+I help transform complex engineering problems into intelligent, real-world solutions using **MATLAB, AI/ML, and Web Deployment**.
 
 ---
 
-## 🚀 Tech Stack
-[![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)](https://laravel.com/) 
-[![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php)](https://www.php.net/) 
-[![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)](https://www.mysql.com/) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)  
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)](https://nodejs.org/) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)](https://getbootstrap.com/) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![MATLAB](https://img.shields.io/badge/-MATLAB-FF8000?style=flat-square&logo=mathworks)](https://www.mathworks.com/) 
-[![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=postman)](https://restfulapi.net/) 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)](https://git-scm.com/)
+## 💼 What I Do
+
+🔄 **Control Systems**
+- PID Tuning, MPC, State-Space Modeling
+- Simulink Modeling & Simulation
+
+🧠 **AI & Machine Learning**
+- LSTM, CNN, SVM for fault detection
+- Predictive Maintenance Systems
+
+⚡ **Power Systems Engineering**
+- Transformer Diagnostics (DGA)
+- Fault Analysis & Renewable Systems
+
+🌐 **Web Deployment**
+- Python (Flask/Django) apps
+- Laravel-based dashboards & APIs
+- Deploy models to live web platforms
+
+🔌 **Hardware Integration**
+- Arduino, ESP32, IoT Systems
+- Real-time data acquisition + visualization
+
+---
+
+## 🛠️ Tech Stack
+
+**Engineering & AI**
+- MATLAB | Simulink | Python
+- Machine Learning | Deep Learning
+
+**Web Development**
+- PHP Laravel | Node.js
+- REST APIs | Flask | Django
+
+**Database**
+- MySQL | MongoDB
+
+**Tools**
+- Git | cPanel | VPS Hosting | ThingSpeak
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI-Powered Transformer Diagnostic System
+- MATLAB + LSTM/CNN/SVM models
+- Real-time IoT data (Arduino + ESP32)
+- Fault prediction with visualization dashboard
+
+---
+
+### 🔹 MATLAB GUI Diagnostic Tool
+- Interactive GUI for fault detection
+- Signal processing (FFT, Wavelet)
+- PDF report generation system
+
+---
+
+### 🔹 Employee Management System (Laravel)
+- HR + Payroll + Attendance
+- Leave management & reporting
+
+---
+
+### 🔹 E-commerce Platform
+- Laravel-based system
+- Payment gateway integration
+- Order & product management
+
+---
+
+### 🔹 Face Recognition System
+- MATLAB-based computer vision project
+- Security-focused implementation
 
 ---
 
 ## 📈 GitHub Stats
-![Fawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FawadChandio&show_icons=true&theme=radical)
+
+![Fawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FawadChandio&show_icons=true&theme=default)
 
 ---
 
-## 🏆 Notable Projects
-### 1️⃣ BlockAPT Cybersecurity Automation Platform
-Developed backend in Laravel & JavaScript, integrated APIs, and improved threat management processes.
+## 💡 Why Work With Me?
 
-### 2️⃣ Employee Management System (PHP Laravel)
-HR & Payroll management with attendance tracking, leave management, and payslip generation.
-
-### 3️⃣ E-commerce Website
-Built with PHP Laravel, integrated payment gateway, product management, and order tracking.
-
-### 4️⃣ AI + MATLAB Transformer Fault Detection App
-Used MATLAB for data processing and detection algorithms.
-
-### 5️⃣ Face Recognition System
-Developed a MATLAB-based facial recognition application for security purposes.
+✅ End-to-End Solutions (Simulation → Deployment)  
+✅ 3+ Years Experience in MATLAB & AI  
+✅ Real-time Systems + IoT Integration  
+✅ Strong Research & Technical Background  
 
 ---
 
-## 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/fawad-usman-6b4a68174)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/FawadChandio)  
-📧 **Email:** [fawadusman.ffc@gmail.com](mailto:fawadusman.ffc@gmail.com)  
-📱 **WhatsApp:** [Click to Chat](https://wa.me/923047047271)
+## 📫 Contact Me
+
+📧 Email: fawadusman.ffc@gmail.com  
+💼 LinkedIn: (Add your link)  
+🌐 Upwork: (Add your profile link)  
+
+---
+
+⭐ *Open to freelance, research, and AI-based engineering projects*
